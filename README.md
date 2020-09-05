@@ -1,3 +1,7 @@
+Mazemerize
+=
+![Image](readme/screen1.png)
+
 controls
 =
 
